@@ -31,7 +31,7 @@ php artisan make:request UpdateUsuarioRequest
 ```
 
 ## Instrucciones de instalación
-1. Clonar proyecto: [users-backend](https://github.com/maximo-perez-villalba/users-back-demo).
+1. Clonar proyecto: [users-back-demo](https://github.com/maximo-perez-villalba/users-back-demo).
 2. Creación manual de la base de datos 'users'.
 3. Ejecutar en consola:
 ```
